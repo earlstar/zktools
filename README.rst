@@ -30,3 +30,7 @@ Authors
 
 .. _Apache Zookeeper: http://zookeeper.apache.org/
 .. _the full docs: http://zktools.rtfd.org/
+
+install
+python setup.py build
+python setup.py install
